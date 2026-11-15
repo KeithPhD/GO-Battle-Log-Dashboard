@@ -1,0 +1,3565 @@
+{
+  "league": "great",
+  "records": [
+    {
+      "time": 1794748638.839,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZk56NXowZ2VKZFNIbXFYTzM1ZUpVODBZc3M0MwwLEgZCYXR0bGUYgICI6b_0nwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "sudowoodo:meteor_beam,rock_throw/baxcalibur:ice_fang,outrage/togetic:draining_kiss,fairy_wind",
+      "oppo_team": "jolteon:discharge,thunder_shock/registeel:focus_blast,lock_on/greninja:hydro_cannon,night_slash,water_shuriken"
+    },
+    {
+      "time": 1794748420.322,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIudLEhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "minior_core:acrobatics,power_gem,rollout/electrode_hisuian:energy_ball,thunder_shock,wild_charge/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794748420.322,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIudLEhwoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "cramorant:fly,peck,surf/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794748420.322,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIudLEhwoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/corviknight:air_cutter,iron_head,sand_attack/forretress:rock_tomb,sand_tomb,volt_switch"
+    },
+    {
+      "time": 1794748420.322,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIudLEhwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/sableye_shadow:drain_punch,foul_play,shadow_claw/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794748420.322,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIudLEhwoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "seismitoad:earth_power,icy_wind,mud_shot/sableye_shadow:drain_punch,foul_play,shadow_claw/electrode_hisuian:energy_ball,thunder_shock,wild_charge"
+    },
+    {
+      "time": 1794740095.99,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI6eiZgAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/magcargo:incinerate/emolga:acrobatics,discharge,thunder_shock"
+    },
+    {
+      "time": 1794740095.99,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI6eiZgAkM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/cramorant:fly,peck,surf/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794740095.99,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI6eiZgAkM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "blastoise:bite,hydro_cannon,skull_bash/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794740095.99,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI6eiZgAkM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/diggersby:fire_punch,mud_shot,scorching_sands/lumineon:aqua_tail,gust,silver_wind"
+    },
+    {
+      "time": 1794740095.99,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI6eiZgAkM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "rillaboom:drum_beating,earth_power,scratch/dewgong:drill_run,ice_shard,icy_wind/seismitoad:earth_power,icy_wind,mud_shot"
+    },
+    {
+      "time": 1794739086.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI2bPHhAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "blastoise:rollout/walrein:earthquake,icicle_spear,powder_snow/chesnaught:frenzy_plant,low_kick,super_power"
+    },
+    {
+      "time": 1794739086.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI2bPHhAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/chesnaught:frenzy_plant,low_kick,super_power/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock"
+    },
+    {
+      "time": 1794739086.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI2bPHhAoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "jellicent:hex,shadow_ball,surf/guzzlord:brutal_swing,dragon_tail,sludge_bomb/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794739086.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI2bPHhAoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/marowak_shadow:bone_club,mud_slap,rock_slide/crobat:air_cutter,gust,poison_fang"
+    },
+    {
+      "time": 1794739086.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICI2bPHhAoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/turtonator:brutal_swing,dragon_claw,incinerate"
+    },
+    {
+      "time": 1794723125.068,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2bOpiAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "camerupt:earth_power,incinerate,rock_tomb/crobat:air_cutter,gust,poison_fang/?:"
+    },
+    {
+      "time": 1794722985.95,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIudCtjgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "rillaboom:drum_beating,earth_power,scratch/cramorant:fly,peck,surf/stunfisk:discharge,mud_bomb,thunder_shock"
+    },
+    {
+      "time": 1794722794.598,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6ePTiAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "giratina_altered_shadow:dragon_breath,dragon_claw,shadow_sneak/greninja:brutal_swing,hydro_cannon,water_shuriken/skeledirge:incinerate,shadow_ball,torch_song"
+    },
+    {
+      "time": 1794722637.364,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-YzlkAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "cramorant:fly,peck,surf/ninetales_shadow:ember,energy_ball,weather_ball_fire/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794722435.064,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIueHaiAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "minior_core:acrobatics,power_gem,rollout/dunsparce:drill_run,rock_slide,rollout/bastiodon:flamethrower,smack_down,stone_edge"
+    },
+    {
+      "time": 1794722109.152,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIueHMkQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/quagsire:aqua_tail,mud_shot,stone_edge/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794721886.44,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIuZKriwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/dunsparce:bite,drill_run,rock_slide/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794721675.207,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImZ2PhwkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "machamp:cross_chop,karate_chop,rock_slide/toxapex:bite/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794721449.862,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2bO2kQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "marowak_shadow:bone_club,mud_slap,rock_slide/dunsparce:astonish,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794721263.822,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-cfZgwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "oranguru:brutal_swing,confusion,trailblaze/turtonator:brutal_swing,dragon_claw,incinerate/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794721091.015,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIhbjngwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,sand_attack",
+      "oppo_team": "magcargo:incinerate/marowak_shadow:bone_club,mud_slap,rock_slide/cradily:bullet_seed,grass_knot,rock_slide"
+    },
+    {
+      "time": 1794718678.183,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImd2YlgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,steel_wing",
+      "oppo_team": "vigoroth:body_slam,bulldoze,scratch/marowak_shadow:bone_club,mud_slap,rock_slide/araquanid:infestation,mirror_coat,water_pulse"
+    },
+    {
+      "time": 1794718508.119,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-ceunAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,steel_wing",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/clodsire:earthquake,poison_sting,stone_edge/corviknight:air_cutter,iron_head,sand_attack"
+    },
+    {
+      "time": 1794718273.964,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-ceyjQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,steel_wing",
+      "oppo_team": "medicham:dynamic_punch,ice_punch,psycho_cut/forretress:rock_tomb,sand_tomb,volt_switch/dunsparce:astonish,drill_run,rock_slide"
+    },
+    {
+      "time": 1794718073.216,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-cfklAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,payback,steel_wing",
+      "oppo_team": "cramorant:fly,peck,surf/umbreon:dark_pulse,last_resort,snarl/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794716768.364,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOXRKQ2JSSVQyZE0yb0JiaGUxRkJHN1NLcnNxMgwLEgZCYXR0bGUYgICI2Zm-nAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "cramorant:fly,peck,surf/clodsire:earthquake,poison_sting,stone_edge/hippowdon:earth_power,sand_attack,weather_ball_rock",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/azumarill:bubble,ice_beam,play_rough/annihilape:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794716768.364,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOXRKQ2JSSVQyZE0yb0JiaGUxRkJHN1NLcnNxMgwLEgZCYXR0bGUYgICI2Zm-nAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "cramorant:fly,peck,surf/clodsire:earthquake,poison_sting,stone_edge/hippowdon:earth_power,sand_attack,weather_ball_rock",
+      "oppo_team": "ariados:foul_play,lunge,poison_sting/milotic:aqua_tail,waterfall,wrap/snorlax:body_slam,earthquake,psywave"
+    },
+    {
+      "time": 1794716768.364,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOXRKQ2JSSVQyZE0yb0JiaGUxRkJHN1NLcnNxMgwLEgZCYXR0bGUYgICI2Zm-nAoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "cramorant:fly,peck,surf/clodsire:earthquake,poison_sting,stone_edge/hippowdon:earth_power,sand_attack,weather_ball_rock",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/ariados:foul_play,lunge,poison_sting"
+    },
+    {
+      "time": 1794716768.364,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOXRKQ2JSSVQyZE0yb0JiaGUxRkJHN1NLcnNxMgwLEgZCYXR0bGUYgICI2Zm-nAoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "cramorant:fly,peck,surf/clodsire:earthquake,poison_sting,stone_edge/hippowdon:earth_power,sand_attack,weather_ball_rock",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/cradily:acid,grass_knot,rock_tomb/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock"
+    },
+    {
+      "time": 1794712599.015,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-eWxmAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2700,
+      "note": "",
+      "team": "diggersby:fire_punch,mud_shot,scorching_sands/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "clodsire:earthquake,poison_sting,stone_edge/greninja:brutal_swing,hydro_cannon,water_shuriken/araquanid:infestation,mirror_coat,water_pulse"
+    },
+    {
+      "time": 1794712548.463,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI2bP4ngoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "diggersby:fire_punch,mud_shot,scorching_sands/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/cradily:acid,grass_knot,rock_tomb/minior_core:acrobatics,power_gem,rollout"
+    },
+    {
+      "time": 1794711296.738,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI2eaAgQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "diggersby:fire_punch,mud_shot,scorching_sands/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/charjabug:discharge,volt_switch,x_scissor/vigoroth:body_slam,bulldoze,scratch"
+    },
+    {
+      "time": 1794711012.442,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI2aabnwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "tinkaton:bulldoze,fairy_wind,gigaton_hammer/marowak:bone_club,mud_slap,rock_slide/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794710668.293,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-eWmiQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "sandslash_alolan_shadow:drill_run,ice_punch,powder_snow/azumarill:bubble,ice_beam,play_rough/dewgong:drill_run,ice_shard,icy_wind"
+    },
+    {
+      "time": 1794710668.293,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-eWmiQoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/corsola_galarian:astonish,night_shade,power_gem",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/clodsire:earthquake,poison_sting,stone_edge/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794710304.676,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-Yz-gQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "drapion_shadow:aqua_tail,crunch,poison_sting/forretress:rock_tomb,sand_tomb,volt_switch/nidoqueen:earth_power,mud_slap,poison_fang"
+    },
+    {
+      "time": 1794710304.676,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-Yz-gQoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/corsola_galarian:astonish,night_shade,power_gem/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794710304.676,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-Yz-gQoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "thievul:icy_wind,night_slash,sucker_punch/charjabug:discharge,volt_switch,x_scissor/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/azumarill:bubble,ice_beam,play_rough/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794709103.636,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-Yf_hQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2700,
+      "note": "",
+      "team": "altaria:dragon_breath,flamethrower,sky_attack/ursaluna_shadow:fire_punch,scratch,swift/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/charjabug:discharge,volt_switch,x_scissor/vigoroth:body_slam,bulldoze,scratch"
+    },
+    {
+      "time": 1794709103.636,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcR0RRbVJLVnNHc1JDdXNjT2xqejBzSVRHMmIzMgwLEgZCYXR0bGUYgICI-Yf_hQoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2700,
+      "note": "",
+      "team": "altaria:dragon_breath,flamethrower,sky_attack/ursaluna_shadow:fire_punch,scratch,swift/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/cramorant:fly,peck,surf/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794707521.711,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIudCxlwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/ampharos:brutal_swing,trailblaze,volt_switch/umbreon:dark_pulse,last_resort,snarl"
+    },
+    {
+      "time": 1794707284.21,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuZ2_igkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "marowak:bone_club,mud_slap,rock_slide/mimikyu:play_rough,shadow_claw,shadow_sneak/seaking:drill_run,icy_wind,peck",
+      "oppo_team": "seismitoad:earth_power,icy_wind,mud_shot/cradily:acid,grass_knot,rock_tomb/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794707022.122,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6anXngoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/oranguru:brutal_swing,confusion,trailblaze/dudunsparce:bite,body_slam,drill_run"
+    },
+    {
+      "time": 1794706782.59,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6eO0jwsM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "marowak:bone_club,mud_slap,rock_slide/mimikyu:play_rough,shadow_claw,shadow_sneak/seaking:drill_run,icy_wind,peck",
+      "oppo_team": "galvantula:discharge,lunge,volt_switch/greninja:brutal_swing,hydro_cannon,water_shuriken/nidoqueen:earth_power,mud_slap,poison_fang"
+    },
+    {
+      "time": 1794706571.931,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6ZjalQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/gliscor:acrobatics,night_slash,wing_attack"
+    },
+    {
+      "time": 1794706306.147,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6anDjwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "kommo_o:clanging_scales,dragon_tail,upper_hand/forretress:rock_tomb,sand_tomb,volt_switch/fletchinder:fly,heat_wave,peck"
+    },
+    {
+      "time": 1794706096.432,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIua-njgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/cramorant:fly,peck,surf/thievul:icy_wind,night_slash,sucker_punch"
+    },
+    {
+      "time": 1794705831.316,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuZ2_igoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/cramorant:fly,peck,surf/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794705634.303,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI-YebmAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "empoleon:drill_peck,hydro_cannon,metal_sound/dudunsparce:bite,body_slam,drill_run/gourgeist_large:incinerate,seed_bomb,shadow_ball"
+    },
+    {
+      "time": 1794705634.303,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI-YebmAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "gourgeist_large:incinerate,seed_bomb,shadow_ball/feraligatr:hydro_cannon,ice_beam,shadow_claw/ninetales_shadow:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794705209.556,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI2cD7jgsM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "houndoom:foul_play,incinerate,trailblaze/araquanid:infestation,mirror_coat,water_pulse/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794705026.326,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIudDmhgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/swampert:earthquake,hydro_cannon,mud_shot/talonflame:brave_bird,fly,incinerate"
+    },
+    {
+      "time": 1794704790.873,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI-aXK2wkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "primeape:ice_punch,karate_chop,rage_fist/snorlax:body_slam,earthquake,psywave/ludicolo:astonish,energy_ball,weather_ball_water"
+    },
+    {
+      "time": 1794704569.367,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6am5lgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "raichu:trailblaze,volt_switch,volt_tackle/talonflame:brave_bird,fly,incinerate/gourgeist_large:incinerate,seed_bomb,shadow_ball"
+    },
+    {
+      "time": 1794704120.753,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6ePFkQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "marowak:bone_club,mud_slap,rock_slide/mimikyu:play_rough,shadow_claw,shadow_sneak/seaking:drill_run,icy_wind,peck",
+      "oppo_team": "ursaluna:fire_punch,scratch,swift/corsola_galarian:astonish,night_shade,power_gem/corviknight:air_cutter,iron_head,sand_attack"
+    },
+    {
+      "time": 1794703701.342,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImeKiiAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "skeledirge:incinerate,shadow_ball,torch_song/azumarill:bubble,ice_beam,play_rough/?:"
+    },
+    {
+      "time": 1794703519.357,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImZ2PhwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "annihilape:ice_punch,low_kick,rage_fist/dudunsparce:bite,body_slam,drill_run/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794703311.273,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIudD8mwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/mimikyu:play_rough,shadow_claw,shadow_sneak/forretress_shadow:rock_tomb,sand_tomb,volt_switch"
+    },
+    {
+      "time": 1794703083.627,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI-eX8kAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/talonflame:brave_bird,fly,incinerate/malamar_shadow:foul_play,psywave,super_power"
+    },
+    {
+      "time": 1794702856.83,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuaGnngoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/forretress:rock_tomb,sand_tomb,volt_switch/nidoqueen:earth_power,mud_slap,poison_fang"
+    },
+    {
+      "time": 1794702605.534,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6eO-gAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/melmetal:double_iron_bash,dynamic_punch,thunder_shock/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794700925.133,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI2aCgnwkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "primeape:ice_punch,karate_chop,rage_fist/azumarill:bubble,ice_beam,play_rough/snorlax_shadow:body_slam,psywave,super_power"
+    },
+    {
+      "time": 1794698318.771,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcSnJrSERvM1FFblRqQ2NTOFVHV3NMdGRpb1R2MgwLEgZCYXR0bGUYgICImf6zlgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "clodsire:earthquake,poison_sting,stone_edge/umbreon:dark_pulse,last_resort,snarl/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/muk_alolan:brutal_swing,ice_punch,poison_jab"
+    },
+    {
+      "time": 1794698014.941,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcSnJrSERvM1FFblRqQ2NTOFVHV3NMdGRpb1R2MgwLEgZCYXR0bGUYgICIuZLIlAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "clodsire:earthquake,poison_sting,stone_edge/umbreon:dark_pulse,last_resort,snarl/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "kingdra:dragon_breath,surf,swift/electrode_hisuian:energy_ball,thunder_shock,wild_charge/skeledirge:incinerate,shadow_ball,torch_song"
+    },
+    {
+      "time": 1794674352.409,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIua_2mwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/toxapex:bite,brine,sludge_wave/?:"
+    },
+    {
+      "time": 1794674186.191,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-Za4lQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/araquanid:infestation,mirror_coat,water_pulse/ninetales_shadow:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794673938.384,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2ZmqjQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "toucannon:beak_blast,drill_peck,peck/dunsparce:astonish/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794673727.942,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6ZiwmQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "araquanid:infestation,mirror_coat,water_pulse/marowak_alolan:bone_club,fire_spin,shadow_bone/wigglytuff:charm,icy_wind,swift"
+    },
+    {
+      "time": 1794673500.442,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-eXogQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/dunsparce:astonish,drill_run,rock_slide/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794673304.016,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-aWFlwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/jumpluff:acrobatics,energy_ball,fairy_wind/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794673220.197,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIueLXhQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "rillaboom:drum_beating,earth_power,scratch/mimikyu:play_rough,shadow_claw,shadow_sneak/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794673054.72,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6eOqngoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "ludicolo:astonish,energy_ball,weather_ball_water/lickilicky:body_slam,rollout,shadow_ball/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794672835.662,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6ejniAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/jumpluff:acrobatics,energy_ball,fairy_wind/vigoroth:body_slam,bulldoze,scratch"
+    },
+    {
+      "time": 1794672435.066,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImeK4kQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "sableye_shadow:drain_punch,foul_play,shadow_claw/sandslash_alolan:drill_run,ice_punch,powder_snow/ninetales_shadow:ember,energy_ball,weather_ball_fire",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/ninetales_shadow:ember,energy_ball,weather_ball_fire/altaria_shadow:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794672200.275,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2abNjgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/cramorant:fly,peck,surf/ninetales_shadow:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794671994.641,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIua-SigoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "empoleon_shadow:drill_peck,hydro_cannon,metal_sound/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "annihilape_shadow:ice_punch,low_kick,rage_fist/clodsire:earthquake,poison_sting,stone_edge/mandibuzz:dark_pulse,shadow_ball,snarl"
+    },
+    {
+      "time": 1794671748.946,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2enCnwkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "gallade_shadow:leaf_blade,low_kick,sacred_sword/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/ninetales_shadow:ember,energy_ball,weather_ball_fire/quagsire_shadow:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794671562.265,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI-YzqnwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "gallade_shadow:leaf_blade,low_kick,sacred_sword/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "dusknoir:astonish,dynamic_punch,shadow_punch/dunsparce:bite,drill_run,rock_slide/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794671298.732,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImf6lhwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "gallade_shadow:leaf_blade,psycho_cut,sacred_sword/marowak_shadow:bone_club,mud_slap,rock_slide/?:"
+    },
+    {
+      "time": 1794671164.75,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6b_0nwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "malamar_shadow:foul_play,psywave,super_power/corviknight:air_cutter,iron_head,sand_attack/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794668534.702,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIuZ31ggoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "ursaluna:fire_punch,scratch,swift/turtonator:brutal_swing,dragon_claw,incinerate/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794668534.702,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIuZ31ggoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/machamp:cross_chop,karate_chop,rock_slide/murkrow_shadow:drill_peck,foul_play,peck"
+    },
+    {
+      "time": 1794668534.702,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIuZ31ggoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794668534.702,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIuZ31ggoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "typhlosion:blast_burn,incinerate,thunder_punch/azumarill:bubble,ice_beam,play_rough/?:"
+    },
+    {
+      "time": 1794668534.702,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcOTcwbTc5NnZ0alZ3b0ZkZGhhTVV2SG52dXI3MwwLEgZCYXR0bGUYgICIuZ31ggoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:astonish,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor",
+      "oppo_team": "ninetales_shadow:ember,energy_ball,weather_ball_fire/mimikyu:play_rough,shadow_claw,shadow_sneak/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794659534.291,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI2dOLlgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "gastrodon:body_slam,earth_power,mud_slap/forretress:rock_tomb,sand_tomb,volt_switch/stunfisk:discharge,mud_bomb,thunder_shock"
+    },
+    {
+      "time": 1794659514.122,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI2aamhgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "blastoise:bite,hydro_cannon,skull_bash/toucannon:beak_blast,drill_peck,peck/trevenant:seed_bomb,shadow_ball,shadow_claw"
+    },
+    {
+      "time": 1794659489.617,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI6aP7hwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "corsola:bubble,power_gem,rock_blast/ninetales:ember,energy_ball,weather_ball_fire/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794659463.195,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI-fTHhgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "gastrodon:body_slam,earth_power,mud_slap/forretress:rock_tomb,sand_tomb,volt_switch/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794659440.499,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI-aWFlwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/mimikyu:play_rough,shadow_claw,shadow_sneak/araquanid:infestation,mirror_coat,water_pulse"
+    },
+    {
+      "time": 1794659403.823,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICIuaG9jwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "swampert:earthquake,hydro_cannon,mud_shot/skeledirge:incinerate,shadow_ball,torch_song/meganium:earthquake,frenzy_plant,vine_whip"
+    },
+    {
+      "time": 1794659361.999,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI2cD7jgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794659335.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI6aPCgwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/claydol:mud_slap,rock_tomb,shadow_ball/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794649985.256,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI2cCJhgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "annihilape:ice_punch,low_kick,rage_fist/lickilicky:body_slam,rollout,shadow_ball/dusknoir:astonish,dynamic_punch,shadow_punch"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/cradily:acid,grass_knot,rock_tomb/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "marowak_shadow:bone_club,mud_slap,rock_slide/bastiodon:flamethrower,smack_down,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/dunsparce:astonish/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "forretress_shadow:bug_bite/talonflame_shadow:flame_charge,fly,incinerate/pidgeot:brave_bird,gust,twister"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 5,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "greninja:brutal_swing,hydro_cannon,water_shuriken/charjabug:discharge,volt_switch,x_scissor/typhlosion_shadow:blast_burn,incinerate,thunder_punch"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 6,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/altaria:dragon_breath,flamethrower,moonblast/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 7,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "toedscruel:earth_power,mud_slap,seed_bomb/weezing_galarian:brutal_swing,fairy_wind,sludge/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 8,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "talonflame:brave_bird,fly,incinerate/vigoroth:body_slam,bulldoze,scratch/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 9,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/quagsire_shadow:aqua_tail,mud_shot,stone_edge/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 10,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "machamp:cross_chop,karate_chop,rock_slide/dunsparce:astonish/lickilicky:body_slam,rollout,shadow_ball"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 11,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 12,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "mightyena_shadow:crunch,poison_fang,sucker_punch/tinkaton:bulldoze,fairy_wind,gigaton_hammer/araquanid:infestation,mirror_coat,water_pulse"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 13,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/melmetal:double_iron_bash,dynamic_punch,thunder_shock/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 14,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 15,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/tinkaton:bulldoze,fairy_wind,gigaton_hammer/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 16,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "cramorant:fly,peck,surf/dunsparce:astonish/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 17,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/crobat_shadow:air_cutter,gust,poison_fang/umbreon:dark_pulse,last_resort,snarl"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 18,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "dusknoir:astonish,dynamic_punch,shadow_punch/corviknight:air_cutter,iron_head,sand_attack/ursaluna:fire_punch,scratch,swift"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 19,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "corviknight:air_cutter,iron_head,sand_attack/malamar:foul_play,psywave,super_power/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 20,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "talonflame:brave_bird,fly,incinerate/vigoroth:body_slam,bulldoze,scratch/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794649765.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICI-ebvhAkM",
+      "idx": 21,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/clodsire:earthquake,poison_sting,stone_edge/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794644484.988,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImZ2qgwoM",
+      "idx": 0,
+      "result": "",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "mantine:twister,water_pulse,wing_attack/mandibuzz:dark_pulse,shadow_ball,snarl/nidoking:avalanche,earth_power,poison_sting"
+    },
+    {
+      "time": 1794644484.988,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImZ2qgwoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/dragonair:aqua_tail,dragon_breath,dragon_pulse/sandslash_alolan_shadow:drill_run,ice_punch,powder_snow"
+    },
+    {
+      "time": 1794644484.988,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImZ2qgwoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "seismitoad:earth_power,icy_wind,mud_shot/snorlax:body_slam,earthquake,psywave/fearow:drill_peck,drill_run,peck"
+    },
+    {
+      "time": 1794644484.988,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImZ2qgwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "cramorant:fly,peck,surf/stunfisk_galarian:earthquake,mud_shot,rock_slide/florges:chilling_water,fairy_wind,moonblast"
+    },
+    {
+      "time": 1794638855.703,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2emdiQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 3000,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "cramorant:fly,peck,surf/ninetales:ember,energy_ball,weather_ball_fire/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794638602.333,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2eS4ngoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 3000,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "corviknight:air_cutter,iron_head,sand_attack/araquanid:infestation,mirror_coat,water_pulse/corsola_galarian:astonish,night_shade,power_gem"
+    },
+    {
+      "time": 1794638391.106,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2dOVhwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/mandibuzz:dark_pulse,shadow_ball,snarl/electrode_hisuian:energy_ball,thunder_shock,wild_charge"
+    },
+    {
+      "time": 1794638022.098,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuc-1jAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "electrode_hisuian:energy_ball,thunder_shock,wild_charge/clodsire:earthquake,poison_sting,stone_edge/empoleon:drill_peck,hydro_cannon,metal_sound"
+    },
+    {
+      "time": 1794637811.971,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIueLukAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "swanna_shadow:aqua_jet,fly,gust/diggersby:fire_punch,mud_shot,scorching_sands/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794637521.606,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuc-1jAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "annihilape_shadow:ice_punch,low_kick,rage_fist/charjabug:discharge,volt_switch,x_scissor/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794637290.227,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6amuhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "rillaboom:drum_beating,earth_power,scratch/?:/?:"
+    },
+    {
+      "time": 1794637187.513,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuaH2hwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/electrode_hisuian:energy_ball,thunder_shock,wild_charge/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794636848.066,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6anymgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "houndoom_shadow:foul_play,incinerate,trailblaze/corviknight:air_cutter,iron_head,sand_attack/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794636601.911,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6aOJiwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/thievul:icy_wind,night_slash,sucker_punch/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794636259.264,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImaLljwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "annihilape_shadow:ice_punch,low_kick,rage_fist/electrode_hisuian:energy_ball,thunder_shock,wild_charge/?:"
+    },
+    {
+      "time": 1794636144.393,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImaKBlgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/feraligatr_shadow:hydro_cannon,ice_beam,shadow_claw/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794635874.608,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuc-IiAsM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/dunsparce:bite,drill_run,rock_slide/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794635654.532,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImaKahwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/cramorant:fly,peck,surf/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794635482.37,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6Z-siAsM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "clodsire:earthquake,poison_sting,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/greninja:brutal_swing,hydro_cannon,water_shuriken"
+    },
+    {
+      "time": 1794628024.037,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIue3XmQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "golisopod:aqua_jet,fury_cutter,x_scissor/piloswine:high_horsepower,icicle_spear,powder_snow/lapras:ice_beam,psywave,sparkling_aria"
+    },
+    {
+      "time": 1794627651.975,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQlRleUI3RmtaR2FMa3BxMHNjM2RCVlhqZktlMgwLEgZCYXR0bGUYgICImb6plAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "mimikyu:play_rough,shadow_claw,shadow_sneak/azumarill:bubble,ice_beam,play_rough/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "rillaboom:drum_beating,earth_power,scratch/jellicent:hex,shadow_ball,surf/annihilape:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794620460.271,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI2enWgQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "primeape:ice_punch,karate_chop,rage_fist/jumpluff:acrobatics,energy_ball,fairy_wind/dusknoir:astonish,dynamic_punch,shadow_punch"
+    },
+    {
+      "time": 1794620419.371,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI2caFnQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "drifblim:hex,icy_wind,shadow_ball/machamp_shadow:cross_chop,karate_chop,rock_slide/cradily:acid,grass_knot,rock_tomb"
+    },
+    {
+      "time": 1794600679.512,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcbmw5NXhTV2duUlVuZjFxNG5BS1dES1lSTlh2MgwLEgZCYXR0bGUYgICI2cbejAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "araquanid_shadow:infestation,mirror_coat,water_pulse/stunfisk:discharge,mud_bomb,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "carbink:moonblast,rock_slide,rock_throw/serperior:aerial_ace,frenzy_plant,vine_whip/corsola_galarian:astonish,night_shade,power_gem"
+    },
+    {
+      "time": 1794600468.174,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcbmw5NXhTV2duUlVuZjFxNG5BS1dES1lSTlh2MgwLEgZCYXR0bGUYgICI2aTlhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "araquanid_shadow:infestation,mirror_coat,water_pulse/stunfisk:discharge,mud_bomb,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "talonflame_shadow:flame_charge,fly,incinerate/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794600283.254,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcbmw5NXhTV2duUlVuZjFxNG5BS1dES1lSTlh2MgwLEgZCYXR0bGUYgICI-aWgkwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "araquanid_shadow:infestation,mirror_coat,water_pulse/stunfisk:discharge,mud_bomb,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "clodsire:earthquake,poison_sting,stone_edge/empoleon:drill_peck,hydro_cannon,metal_sound/wigglytuff:charm,icy_wind,swift"
+    },
+    {
+      "time": 1794599927.014,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcbmw5NXhTV2duUlVuZjFxNG5BS1dES1lSTlh2MgwLEgZCYXR0bGUYgICI6d-ikwkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "araquanid_shadow:infestation,mirror_coat,water_pulse/stunfisk:discharge,mud_bomb,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "electrode_hisuian:energy_ball,thunder_shock,wild_charge/blastoise:rollout/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794599762.81,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcbmw5NXhTV2duUlVuZjFxNG5BS1dES1lSTlh2MgwLEgZCYXR0bGUYgICIueDJgAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "araquanid_shadow:infestation,mirror_coat,water_pulse/stunfisk:discharge,mud_bomb,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/altaria:dragon_breath,flamethrower,moonblast/?:"
+    },
+    {
+      "time": 1794586631.47,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImcKnkgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "cramorant:fly,peck,surf/quagsire:aqua_tail,mud_shot,stone_edge/piloswine:high_horsepower,icicle_spear,powder_snow"
+    },
+    {
+      "time": 1794586405.898,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6d-2igoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2600,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "cramorant:fly,peck,surf/tinkaton:bulldoze,fairy_wind,gigaton_hammer/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794586270.686,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIuYLtngkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2600,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/corviknight:air_cutter,iron_head,sand_attack/togekiss:aura_sphere,peck,psyshock"
+    },
+    {
+      "time": 1794585884.728,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2aSaiwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2600,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "blaziken:aura_sphere,blast_burn,ember/togetic:draining_kiss,fairy_wind,heat_wave/quagsire_shadow:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794585543.054,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2cbKlQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "snorlax_shadow:body_slam,psywave,super_power/charjabug:discharge,volt_switch,x_scissor/gallade_shadow:leaf_blade,psycho_cut,sacred_sword"
+    },
+    {
+      "time": 1794585543.054,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2cbKlQoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "girafarig:confusion,psychic_fangs,trailblaze/jumpluff:acrobatics,energy_ball,fairy_wind/poliwrath:dynamic_punch,icy_wind,mud_shot"
+    },
+    {
+      "time": 1794585543.054,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2cbKlQoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/jumpluff:acrobatics,energy_ball,fairy_wind/snorlax_shadow:body_slam,psywave,super_power"
+    },
+    {
+      "time": 1794585543.054,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2cbKlQoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/lapras:ice_beam,psywave,sparkling_aria/greedent:bite,body_slam,trailblaze"
+    },
+    {
+      "time": 1794585543.054,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2cbKlQoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/goodra:aqua_tail,dragon_breath,thunder_punch/?:"
+    },
+    {
+      "time": 1794584306.891,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIucHLgwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "solrock:psywave,rock_slide,weather_ball_fire/lapras:ice_beam,psywave,sparkling_aria/greedent:bite,body_slam,trailblaze"
+    },
+    {
+      "time": 1794584306.891,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIucHLgwoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "kecleon:dynamic_punch,sucker_punch,thunder_punch/grumpig:dynamic_punch,psywave,shadow_ball/?:"
+    },
+    {
+      "time": 1794584306.891,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIucHLgwoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "shelgon_shadow:dragon_breath,flamethrower,twister/lapras:ice_beam,psywave,sparkling_aria/lunatone:psywave,rock_slide,weather_ball_ice"
+    },
+    {
+      "time": 1794584306.891,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIucHLgwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "snorlax_shadow:body_slam,psywave,super_power/persian_shadow:night_slash,power_gem,scratch/?:"
+    },
+    {
+      "time": 1794584306.891,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIucHLgwoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794583186.116,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2em4jgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "pidgeot_shadow:brave_bird,gust,twister/solrock:psywave,rock_slide,weather_ball_fire/lunatone:psywave,rock_slide,weather_ball_ice"
+    },
+    {
+      "time": 1794583186.116,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2em4jgoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dragonite_shadow:dragon_breath,super_power,thunder_punch/dunsparce:bite,drill_run,rock_slide/blastoise:bite,hydro_cannon,skull_bash"
+    },
+    {
+      "time": 1794583186.116,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2em4jgoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794583186.116,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2em4jgoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cetitan:icicle_spear,powder_snow,super_power/blastoise:bite,hydro_cannon,skull_bash/solrock:psywave,rock_slide,weather_ball_fire"
+    },
+    {
+      "time": 1794583186.116,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI2em4jgoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "snorlax_shadow:body_slam,psywave,super_power/shelgon_shadow:dragon_breath,flamethrower,twister/blastoise:bite,hydro_cannon,skull_bash"
+    },
+    {
+      "time": 1794582768.707,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIuYLY2ggM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "crustle:fury_cutter,rock_wrecker,x_scissor/lunatone:psywave,rock_slide,weather_ball_ice/crobat:air_cutter,gust,poison_fang"
+    },
+    {
+      "time": 1794581478.398,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIme2dhQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "fearow:drill_peck,drill_run,peck/machamp_shadow:cross_chop,karate_chop,rock_slide/grumpig:dynamic_punch,psywave,shadow_ball"
+    },
+    {
+      "time": 1794581478.398,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIme2dhQoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "poliwrath:dynamic_punch,icy_wind,mud_shot/charjabug:discharge,volt_switch,x_scissor/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794581478.398,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIme2dhQoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "grumpig:dynamic_punch,psywave,shadow_ball/persian_shadow:night_slash,power_gem,scratch/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794581478.398,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIme2dhQoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "lunatone:psywave,rock_slide,weather_ball_ice/wartortle:aqua_jet,bite,ice_beam/blastoise:bite,hydro_cannon,skull_bash"
+    },
+    {
+      "time": 1794581478.398,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIme2dhQoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cetitan:icicle_spear,powder_snow,super_power/grumpig:dynamic_punch,psywave,shadow_ball/toxapex:bite,brine,sludge_wave"
+    },
+    {
+      "time": 1794580147.747,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI-ebzmQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "swalot:ice_beam,infestation,sludge/galvantula:discharge,lunge,volt_switch/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794580027.842,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z-siAkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "shelgon:dragon_breath,flamethrower,twister/dunsparce:bite,drill_run,rock_slide/?:"
+    },
+    {
+      "time": 1794580027.842,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z-siAkM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cramorant:fly,peck,surf/blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794580027.842,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z-siAkM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "baxcalibur:avalanche,dragon_breath,glaive_rush/solrock:psywave,rock_slide,weather_ball_fire/toxapex:bite,brine,sludge_wave"
+    },
+    {
+      "time": 1794580027.842,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z-siAkM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "spidops:lunge,rock_tomb,shadow_claw/toucannon:beak_blast,drill_peck,peck/?:"
+    },
+    {
+      "time": 1794580027.842,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z-siAkM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "pidgeot_shadow:brave_bird,gust,twister/lapras:ice_beam,psywave,sparkling_aria/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794579798.867,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI2amvlwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "gourgeist_large:incinerate,seed_bomb,shadow_ball/lickilicky:body_slam,rollout,shadow_ball/drifblim:hex,icy_wind,shadow_ball"
+    },
+    {
+      "time": 1794579374.316,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIuZDgmQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "froslass:avalanche,powder_snow,shadow_ball/maushold:crunch,swift,take_down/dragonair:aqua_tail,dragon_breath,dragon_pulse"
+    },
+    {
+      "time": 1794566298.431,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICImb62hQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "umbreon:dark_pulse,last_resort,snarl/greninja:brutal_swing,hydro_cannon,water_shuriken/skeledirge:incinerate,shadow_ball,torch_song"
+    },
+    {
+      "time": 1794565904.181,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICIucG1nAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/greninja:brutal_swing,hydro_cannon,water_shuriken/typhlosion_shadow:blast_burn,incinerate,thunder_punch"
+    },
+    {
+      "time": 1794565651.766,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI6cPzlAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794565381.074,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICIue3ugAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "gligar:dig,night_slash,wing_attack/jirachi:aura_sphere,confusion,doom_desire/seismitoad:earth_power,icy_wind,mud_shot"
+    },
+    {
+      "time": 1794565076.592,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI-bS6iAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "jumpluff:acrobatics,energy_ball,fairy_wind/marowak_alolan:bone_club,fire_spin,shadow_bone/greninja_shadow:brutal_swing,hydro_cannon,water_shuriken"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIucKgkQkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "ninetales:ember,energy_ball,weather_ball_fire/electrode:discharge,foul_play,volt_switch/jellicent:hex,shadow_ball,surf"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI6YmenwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "toxicroak:dynamic_punch,poison_sting,shadow_ball/cradily:acid,grass_knot,rock_tomb/dusclops:hex,ice_punch,shadow_punch"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIqbuXxAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "steelix:crunch,psychic_fangs,thunder_fang/raikou:aura_sphere,thunder_shock,wild_charge/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIuaLNhgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "doublade:iron_head,sacred_sword,shadow_claw/stunfisk_galarian:earthquake,mud_shot,rock_slide/greninja:brutal_swing,hydro_cannon,water_shuriken"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIme3WiQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "squawkabilly:brave_bird,fly,peck/aerodactyl:brutal_swing,dragon_breath,rock_slide/xatu:peck,psyshock,shadow_ball"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI2anlmwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/sharpedo:bite,crunch,poison_fang/donphan:earthquake,mud_slap,trailblaze"
+    },
+    {
+      "time": 1794564873.614,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIue3yngoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "hariyama:force_palm,heavy_slam,upper_hand/leafeon:energy_ball,leaf_blade,quick_attack/weavile:avalanche,foul_play,snarl"
+    },
+    {
+      "time": 1794564737.76,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI2aTMkgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/swampert:earthquake,hydro_cannon,mud_shot/torterra:frenzy_plant,mud_slap,sand_tomb"
+    },
+    {
+      "time": 1794564432.483,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI6cPlhQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "azumarill:bubble,ice_beam,play_rough/stunfisk:discharge,mud_bomb,thunder_shock/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794564123.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICIua3RiwkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "raichu:trailblaze,volt_switch,volt_tackle/fearow:drill_peck,drill_run,peck/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794563640.604,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI2YaJgAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "jirachi:aura_sphere,confusion,doom_desire/whimsicott:fairy_wind,moonblast,seed_bomb/lanturn:spark,surf,thunderbolt"
+    },
+    {
+      "time": 1794563307.863,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTUZJaFN0OHpmYU9RSzU1ZDU0R1ZVNDR6amZ3MgwLEgZCYXR0bGUYgICI6ejElgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "corviknight:air_cutter,iron_head,sand_attack/clodsire:earthquake,poison_sting,stone_edge/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/ninetales:ember,energy_ball,weather_ball_fire/greninja:brutal_swing,hydro_cannon,water_shuriken"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "giratina_altered_shadow:dragon_breath,dragon_claw,shadow_sneak/florges:chilling_water,fairy_wind,moonblast/typhlosion_shadow:blast_burn,incinerate,thunder_punch"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "lanturn:spark,surf,thunderbolt/skeledirge:incinerate,shadow_ball,torch_song/jellicent:hex,shadow_ball,surf"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "electrode:discharge,foul_play,volt_switch/primeape:ice_punch,karate_chop,rage_fist/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "forretress_shadow:rock_tomb,sand_tomb,volt_switch/florges:chilling_water,fairy_wind,moonblast/?:"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "ludicolo:astonish,energy_ball,weather_ball_water/umbreon:dark_pulse,last_resort,snarl/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794562193.053,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICIuY_DgAoM",
+      "idx": 5,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "dragonair:aqua_tail,dragon_breath,dragon_pulse/ninetales:ember,energy_ball,weather_ball_fire/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "walrein:earthquake,icicle_spear,powder_snow/umbreon:dark_pulse,last_resort,snarl/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "tinkaton:bulldoze,fairy_wind,gigaton_hammer/grimmsnarl:draining_kiss,foul_play,sucker_punch/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/blastoise:bite,hydro_cannon,skull_bash/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "weezing_galarian:brutal_swing,fairy_wind,sludge/fearow:drill_peck,drill_run,peck/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "umbreon:dark_pulse,last_resort,snarl/clodsire:earthquake,poison_sting,stone_edge/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 5,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "electrode_hisuian:energy_ball,thunder_shock,wild_charge/drifblim:astonish/feraligatr:hydro_cannon,ice_beam,shadow_claw"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 6,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "ninetales_alolan_shadow:chilling_water,powder_snow,weather_ball_ice/clodsire:earthquake,poison_sting/?:"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 7,
+      "result": "L",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "machamp:cross_chop,karate_chop,rock_slide/lapras:ice_beam,psywave,sparkling_aria/pidgeot:wing_attack"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 8,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "malamar:foul_play,psywave,super_power/cradily:acid,grass_knot,rock_tomb/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 9,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "sableye:foul_play,power_gem,shadow_claw/rillaboom:drum_beating,earth_power,scratch/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 10,
+      "result": "",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "weezing_galarian:brutal_swing,fairy_wind,sludge/?:/?:"
+    },
+    {
+      "time": 1794560787.57,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcb0RkV3Uxd2lYb2ZXNXhEclZFYUs0R3F5dERQMgwLEgZCYXR0bGUYgICImb7imAoM",
+      "idx": 11,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/corviknight:air_cutter,iron_head,sand_attack",
+      "oppo_team": "quagsire:aqua_tail,mud_shot,stone_edge/dunsparce:rollout/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794558506.32,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2YDQiAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/quagsire:aqua_tail,mud_shot,stone_edge/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794558223.953,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIydfSnQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "toucannon_shadow:beak_blast,drill_peck,peck/quagsire:aqua_tail,mud_shot,stone_edge/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794558045.576,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImb74iQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "sableye_shadow:drain_punch,foul_play,shadow_claw/snorlax:body_slam,earthquake,psywave/turtonator:brutal_swing,dragon_claw,incinerate"
+    },
+    {
+      "time": 1794557745.954,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuaLRmwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "houndoom_shadow:foul_play,incinerate,trailblaze/electrode_hisuian:energy_ball,thunder_shock,wild_charge/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794557494.228,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIucGhjQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "sableye_shadow:drain_punch,foul_play,shadow_claw/ursaluna_shadow:fire_punch,scratch,swift/toxapex:bite,brine,sludge_wave"
+    },
+    {
+      "time": 1794557086.016,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6cOBmAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "typhlosion_shadow:blast_burn,incinerate,thunder_punch/azumarill:bubble,ice_beam,play_rough/lickilicky:body_slam,rollout,shadow_ball"
+    },
+    {
+      "time": 1794556811.306,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuaKmigoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/altaria:dragon_breath,flamethrower,moonblast/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794556608.036,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6cnomAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ursaluna_shadow:fire_punch,scratch,swift/sableye_shadow:drain_punch,foul_play,shadow_claw/corviknight:air_cutter,iron_head,sand_attack"
+    },
+    {
+      "time": 1794556416.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI-bSskQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/charjabug:discharge,volt_switch,x_scissor/diggersby:fire_punch,mud_shot,scorching_sands"
+    },
+    {
+      "time": 1794556148.493,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6d_4ggoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/electrode_hisuian:energy_ball,thunder_shock,wild_charge/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794555913.388,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2dPaiwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "houndoom_shadow:foul_play,incinerate,trailblaze/snorlax:body_slam,earthquake,psywave/electrode_hisuian:energy_ball,thunder_shock,wild_charge"
+    },
+    {
+      "time": 1794555754.491,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6cOaiQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/?:/?:"
+    },
+    {
+      "time": 1794555730.033,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2amBigoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "forretress_shadow:rock_tomb,sand_tomb,volt_switch/gastrodon:body_slam,earth_power,mud_slap/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794555586.187,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2dPBmgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "seismitoad:earth_power,icy_wind,mud_shot/fearow:drill_peck,drill_run,peck/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794555426.7,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImd7BzgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/electrode_hisuian:energy_ball,thunder_shock,wild_charge/ninetales_shadow:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794555170.652,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2dPaiwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "feraligatr_shadow:hydro_cannon,ice_beam,shadow_claw/electrode_hisuian:energy_ball,thunder_shock,wild_charge/ampharos_shadow:brutal_swing,trailblaze,volt_switch"
+    },
+    {
+      "time": 1794554933.948,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2YaCjwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/dunsparce:bite,drill_run,rock_slide/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794554702.869,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIuaK8kwoM",
+      "idx": 0,
+      "result": "",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/cramorant:fly,peck,surf/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794554514.995,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImf_HkQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "cramorant:fly,peck,surf/dunsparce:bite,drill_run,rock_slide/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794554333.856,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI6Z_amQkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/clodsire:earthquake,poison_sting,stone_edge/sableye_shadow:drain_punch,foul_play,shadow_claw"
+    },
+    {
+      "time": 1794554061.351,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICIucGhjQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ursaluna_shadow:fire_punch,scratch,swift/corviknight:air_cutter,iron_head,sand_attack/corsola_galarian:astonish,night_shade,power_gem"
+    },
+    {
+      "time": 1794553709.361,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI-bTwgAsM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/jumpluff:acrobatics,energy_ball,fairy_wind/ursaluna_shadow:fire_punch,scratch,swift"
+    },
+    {
+      "time": 1794553446.625,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICImcLpnAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "azumarill:bubble,ice_beam,play_rough/feraligatr:hydro_cannon,ice_beam,shadow_claw/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794553229.261,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVnZzWjJaTDMyOWF2aG41c1VWS2g2bzZpejl4MgwLEgZCYXR0bGUYgICI2dOskgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2900,
+      "note": "",
+      "team": "annihilape_shadow:ice_punch,low_kick,rage_fist/dunsparce:bite,drill_run,rock_slide/carbink:moonblast,rock_slide,rock_throw",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/electrode_hisuian:energy_ball,thunder_shock,wild_charge/marowak_shadow:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794552954.33,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIuaLoggoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "ninetales_shadow:ember,energy_ball,weather_ball_fire/mimikyu:play_rough,shadow_claw,shadow_sneak/kingdra:dragon_breath,surf,swift"
+    },
+    {
+      "time": 1794552742.727,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIuY_ZngoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "talonflame_shadow:flame_charge,fly,incinerate/vigoroth:body_slam,bulldoze,scratch/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794552509.131,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIueCHiAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "nidoking:avalanche,earth_power,poison_sting/annihilape:ice_punch,low_kick,rage_fist/blastoise:bite,hydro_cannon,skull_bash"
+    },
+    {
+      "time": 1794552273.484,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2amakwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "ninetales:ember,energy_ball,weather_ball_fire/fearow:drill_peck,drill_run,peck/feraligatr:hydro_cannon,ice_beam,shadow_claw"
+    },
+    {
+      "time": 1794552069.123,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIucLehAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "zeraora:dynamic_punch,plasma_fists,volt_switch/marowak_shadow:bone_club,mud_slap,rock_slide/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794551786.738,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIiZ3mlgkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "pangoro:close_combat,karate_chop,night_slash/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "cramorant:fly,peck,surf/forretress:rock_tomb,sand_tomb,volt_switch/?:"
+    },
+    {
+      "time": 1794551666.682,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIucH6lAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "pangoro:close_combat,karate_chop,night_slash/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "marowak_shadow:bone_club,mud_slap,rock_slide/carbink:moonblast,rock_slide,rock_throw/lapras_shadow:ice_beam,psywave,sparkling_aria"
+    },
+    {
+      "time": 1794551457.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIiZ2xjwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "pangoro:close_combat,karate_chop,night_slash/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "sableye:foul_play,power_gem,shadow_claw/marowak_shadow:bone_club,mud_slap,rock_slide/guzzlord:brutal_swing,dragon_tail,sludge_bomb"
+    },
+    {
+      "time": 1794551190.543,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6Yn3iQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "dunsparce:drill_run,rock_slide,rollout/corsola_galarian:astonish,night_shade,power_gem/chesnaught:frenzy_plant,low_kick,super_power"
+    },
+    {
+      "time": 1794550997.268,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2anMggoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "dunsparce:drill_run,rock_slide,rollout/azumarill:bubble,ice_beam,play_rough/girafarig:confusion,psychic_fangs,trailblaze"
+    },
+    {
+      "time": 1794550750.546,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI2anQnQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "sableye_shadow:drain_punch,foul_play,shadow_claw/dunsparce:bite,drill_run,rock_slide/melmetal:double_iron_bash,dynamic_punch,thunder_shock"
+    },
+    {
+      "time": 1794550553.77,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6Z_vnQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794550122.021,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIue3kjwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "hydreigon_shadow:brutal_swing,dragon_breath,flash_cannon/ninetales_shadow:ember,energy_ball,weather_ball_fire/melmetal:double_iron_bash,dynamic_punch,thunder_shock",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/ninetales_shadow:ember,energy_ball,weather_ball_fire/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794549920.273,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIyZf1mQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "feraligatr_shadow:hydro_cannon,ice_beam,shadow_claw/charjabug:discharge,volt_switch,x_scissor/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794549743.908,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImcL2jQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/quagsire:aqua_tail,mud_shot,stone_edge/florges:chilling_water,fairy_wind,moonblast"
+    },
+    {
+      "time": 1794549509.824,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICI6YmTkAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "houndoom_shadow:foul_play,incinerate,trailblaze/mimikyu:play_rough,shadow_claw,shadow_sneak/greninja:brutal_swing,hydro_cannon,water_shuriken"
+    },
+    {
+      "time": 1794549320.619,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICImd6fkAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "sableye_shadow:drain_punch,foul_play,shadow_claw/electrode_hisuian:energy_ball,thunder_shock,wild_charge/carbink:moonblast,rock_slide,rock_throw"
+    },
+    {
+      "time": 1794549086.817,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIuY_OjwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/melmetal:double_iron_bash,dynamic_punch,thunder_shock/azumarill:bubble,ice_beam,play_rough",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/vigoroth:body_slam,bulldoze,scratch/annihilape_shadow:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794548753.508,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTGZWWlJyallqcWY0UjdxNThMWnBDMkNlZ2Z2MQwLEgZCYXR0bGUYgICIucL3nQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "carbink:moonblast,rock_slide,rock_throw/mimikyu:play_rough,shadow_claw,shadow_sneak/rillaboom:drum_beating,earth_power,scratch",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/melmetal:double_iron_bash,dynamic_punch,thunder_shock/vigoroth:body_slam,bulldoze,scratch"
+    },
+    {
+      "time": 1794545031.151,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcWXgyZmdkVzlSeWdSbzhwMmZDVDFmVnE2TnB2MgwLEgZCYXR0bGUYgICIucHshQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 0,
+      "note": "",
+      "team": "zeraora:dynamic_punch,plasma_fists,volt_switch/lickilicky:body_slam,rollout,shadow_ball/seismitoad:earth_power,icy_wind,mud_shot",
+      "oppo_team": "furret:sucker_punch,swift,trailblaze/azumarill:bubble,ice_beam,play_rough/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794544387.895,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI2cmSiAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "steelix:crunch,psychic_fangs,thunder_fang/raikou:aura_sphere,thunder_shock,wild_charge/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794544387.895,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICImf-9gAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "squawkabilly:brave_bird,fly,peck/aerodactyl:brutal_swing,dragon_breath,rock_slide/xatu:peck,psyshock,shadow_ball"
+    },
+    {
+      "time": 1794544387.895,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI2dOwgwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "ninetales:ember,energy_ball,weather_ball_fire/electrode:discharge,foul_play,volt_switch/jellicent:hex,shadow_ball,surf"
+    },
+    {
+      "time": 1794544387.895,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIuY-khwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/sharpedo:bite,crunch,poison_fang/donphan:earthquake,mud_slap,trailblaze"
+    },
+    {
+      "time": 1794544387.895,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI2YbYlgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "hariyama:force_palm,heavy_slam,upper_hand/leafeon:energy_ball,leaf_blade,quick_attack/weavile:avalanche,foul_play,snarl"
+    },
+    {
+      "time": 1794544346.825,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI2ZP9zQgM",
+      "idx": 0,
+      "result": "CL",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "tinkaton:bulldoze,fairy_wind,gigaton_hammer/jellicent:hex,shadow_ball,surf/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794544346.825,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICI-bTwgAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "jellicent:hex,shadow_ball,surf/absol:brutal_swing,megahorn,psycho_cut/?:"
+    },
+    {
+      "time": 1794544346.825,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIua2bhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "salazzle:dragon_pulse,incinerate,poison_fang/gardevoir:confusion,shadow_ball,triple_axel/empoleon:drill_peck,hydro_cannon,metal_sound"
+    },
+    {
+      "time": 1794544346.825,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIucKTjAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "clefable:fairy_wind,meteor_mash,moonblast/lucario:aura_sphere,force_palm,shadow_ball/charizard:air_cutter,blast_burn,ember"
+    },
+    {
+      "time": 1794544346.825,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQjltaEVyazVuRk9LaEQyOW1DdTR1dHdWQUtJMgwLEgZCYXR0bGUYgICIucGImAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1700,
+      "note": "",
+      "team": "mandibuzz:dark_pulse,shadow_ball,snarl/lapras:ice_beam,psywave,sparkling_aria/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "lycanroc_midday:drill_run,stone_edge,sucker_punch/electrode:discharge,foul_play,volt_switch/drifblim:hex,icy_wind,shadow_ball"
+    },
+    {
+      "time": 1794539865.157,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImf-pngoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "mimikyu:play_rough,shadow_claw,shadow_sneak/azumarill:bubble,ice_beam,play_rough/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "thievul:icy_wind,night_slash,sucker_punch/jellicent:hex,shadow_ball,surf/tinkaton:bulldoze,fairy_wind,gigaton_hammer"
+    },
+    {
+      "time": 1794539634.325,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIua3RiwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "mimikyu:play_rough,shadow_claw,shadow_sneak/azumarill:bubble,ice_beam,play_rough/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "talonflame:brave_bird,fly,incinerate/charjabug:discharge,volt_switch,x_scissor/gastrodon:body_slam,earth_power,mud_slap"
+    },
+    {
+      "time": 1794539415.973,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIueDJgAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/diggersby:fire_punch,mud_shot,scorching_sands/ursaluna:fire_punch,scratch,swift"
+    },
+    {
+      "time": 1794539182.093,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI-ebagAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "cramorant:fly,peck,surf/snorlax_shadow:body_slam,psywave,super_power/hippowdon:earth_power,sand_attack,weather_ball_rock"
+    },
+    {
+      "time": 1794538987.55,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIme24gQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "cramorant:fly,peck,surf/piloswine:high_horsepower,icicle_spear,powder_snow/quagsire_shadow:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794538659.238,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIucKFlQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/melmetal:double_iron_bash,dynamic_punch,thunder_shock/quagsire_shadow:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794538430.997,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIuYLYmgsM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/oranguru:brutal_swing,confusion,trailblaze/skeledirge:incinerate,shadow_ball,torch_song"
+    },
+    {
+      "time": 1794538139.965,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIyZe_lQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "araquanid:infestation,mirror_coat,water_pulse/sableye_shadow:drain_punch,foul_play,shadow_claw/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794537948.324,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI6YmenwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/melmetal:double_iron_bash,dynamic_punch,thunder_shock/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794537719.885,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImd6VnwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "corviknight_shadow:air_cutter,iron_head,sand_attack/mimikyu:play_rough,shadow_claw,shadow_sneak/stunfisk:discharge,mud_bomb,thunder_shock",
+      "oppo_team": "marowak:bone_club,mud_slap,rock_slide/mimikyu:play_rough,shadow_claw,shadow_sneak/fearow:drill_peck,drill_run,peck"
+    },
+    {
+      "time": 1794535541.507,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI2ZOZlAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax:body_slam,earthquake,psywave/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "altaria:dragon_breath,flamethrower,moonblast/quagsire:aqua_tail,mud_shot,stone_edge/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794535365.772,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIucLKmQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax:body_slam,earthquake,psywave/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cramorant:fly,peck,surf/corsola_galarian:astonish,night_shade,power_gem/clodsire:earthquake,poison_sting,stone_edge"
+    },
+    {
+      "time": 1794535152.091,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI6YnKjgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax:body_slam,earthquake,psywave/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "talonflame_shadow:flame_charge,fly,incinerate/cradily:acid,grass_knot,rock_tomb/swampert:earthquake,hydro_cannon,mud_shot"
+    },
+    {
+      "time": 1794534990.901,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIua3onAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax:body_slam,earthquake,psywave/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "houndoom:foul_play,incinerate,trailblaze/mimikyu:play_rough,shadow_claw,shadow_sneak/wigglytuff:charm,icy_wind,swift"
+    },
+    {
+      "time": 1794534792.684,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI6airmgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax:body_slam,earthquake,psywave/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "arctibax:avalanche,dragon_breath,dragon_claw/blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794534495.332,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImcKSlAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/annihilape:ice_punch,low_kick,rage_fist/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794534294.219,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIiZ2xjwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/dunsparce:bite,drill_run,rock_slide/blastoise:bite,hydro_cannon,skull_bash"
+    },
+    {
+      "time": 1794531481.762,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImcKEhQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "quaquaval:close_combat,hydro_cannon,low_kick/dunsparce:bite,drill_run,rock_slide/forretress:rock_tomb,sand_tomb,volt_switch"
+    },
+    {
+      "time": 1794531481.762,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImcKEhQoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "talonflame:brave_bird,fly,incinerate/hippowdon:earth_power,sand_attack,weather_ball_rock/jellicent:hex,shadow_ball,surf"
+    },
+    {
+      "time": 1794529881.377,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIuYHOnwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "gourgeist_large:incinerate,seed_bomb,shadow_ball/morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794529364.316,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICIia3J0AgM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "bastiodon:flamethrower,smack_down,stone_edge/azumarill:bubble,ice_beam,play_rough/serperior:aerial_ace,frenzy_plant,vine_whip"
+    },
+    {
+      "time": 1794529178.472,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICImYLfmAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "empoleon:drill_peck,hydro_cannon,metal_sound/hippowdon_shadow:earth_power,sand_attack,weather_ball_rock/azumarill:bubble,ice_beam,play_rough"
+    },
+    {
+      "time": 1794529006.672,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIceDFIVFpYSmlVTVpFQ01FZ0ZDeDBJVGNsQVBOMgwLEgZCYXR0bGUYgICI6YmghgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2500,
+      "note": "",
+      "team": "quagsire_shadow:aqua_tail,mud_shot,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak/walrein:earthquake,icicle_spear,powder_snow",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/quagsire:aqua_tail,mud_shot,stone_edge/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794525578.711,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI6fG7mwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "haunter:ice_punch,shadow_claw,shadow_punch/grumpig:dynamic_punch,psywave,shadow_ball/lickilicky:body_slam,rollout,shadow_ball"
+    },
+    {
+      "time": 1794525172.227,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcVUJhTG1hNE5zTFVJaHQwYVRWVzRBc3BqUmFmMQwLEgZCYXR0bGUYgICIma2BhgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1800,
+      "note": "",
+      "team": "excadrill_shadow:drill_run,mud_shot,rock_slide/mantine:twister,water_pulse,wing_attack/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "excadrill_shadow:drill_run,mud_shot,rock_slide/mantine:twister,water_pulse,wing_attack/altaria:dragon_breath,flamethrower,moonblast"
+    },
+    {
+      "time": 1794522176.934,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI6cPQgQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dusknoir_shadow:astonish,dynamic_punch,shadow_punch/lickilicky:body_slam,rollout,shadow_ball/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794521776.61,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIma2amwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "galvantula_shadow:discharge,lunge,volt_switch/jumpluff:acrobatics,energy_ball,fairy_wind/lapras:ice_beam,psywave,sparkling_aria"
+    },
+    {
+      "time": 1794516109.507,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIiZ38hwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "walrein:earthquake,icicle_spear,powder_snow/charjabug:discharge,volt_switch,x_scissor/crustle:fury_cutter,rock_wrecker,x_scissor"
+    },
+    {
+      "time": 1794515672.605,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI2cm9lQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "arctibax:avalanche,dragon_breath,dragon_claw/charjabug:discharge,volt_switch,x_scissor/politoed:ice_beam,mud_shot,weather_ball_water"
+    },
+    {
+      "time": 1794514951.241,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIma3MigoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "abomasnow_shadow:energy_ball,powder_snow,weather_ball_ice/toxapex:bite,brine,sludge_wave/cetitan:icicle_spear,powder_snow,super_power"
+    },
+    {
+      "time": 1794513730.718,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIuYGyjgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/abomasnow:energy_ball,powder_snow,weather_ball_ice/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794513670.754,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIueC4lgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cradily:acid,grass_knot,rock_tomb/lickilicky:body_slam,rollout,shadow_ball/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794506772.49,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6Z-VlQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "carbink:moonblast,rock_slide,rock_throw/tinkaton:bulldoze,fairy_wind,gigaton_hammer/oranguru:brutal_swing,confusion,trailblaze"
+    },
+    {
+      "time": 1794506530.962,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIyZeRiAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "stunfisk:discharge,mud_bomb,thunder_shock/fearow:drill_peck,drill_run,peck/annihilape_shadow:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794506281.707,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIyZeGkQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "fearow:drill_peck,drill_run,peck/corviknight:air_cutter,iron_head,sand_attack/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794506057.68,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuYKChwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "giratina_altered_shadow:dragon_breath,dragon_claw,shadow_sneak/tinkaton:bulldoze,fairy_wind,gigaton_hammer/rapidash:drill_run,incinerate,wild_charge"
+    },
+    {
+      "time": 1794505835.141,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI-dSZlgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2300,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "magcargo:ember,overheat,rock_tomb/forretress:rock_tomb,sand_tomb,volt_switch/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794505528.421,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImd6shgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "florges:chilling_water,fairy_wind,moonblast/charjabug:discharge,volt_switch,x_scissor/diggersby:fire_punch,mud_shot,scorching_sands"
+    },
+    {
+      "time": 1794504327.052,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuaCvhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "ninetales_alolan:chilling_water,powder_snow,weather_ball_ice/feraligatr:hydro_cannon,ice_beam,shadow_claw/annihilape:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794504191.648,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuaDQzQoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "lunatone:psywave,rock_slide,weather_ball_ice/?:/?:"
+    },
+    {
+      "time": 1794504116.682,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI2cnphAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "blastoise:bite,hydro_cannon,skull_bash/furret:sucker_punch,swift,trailblaze/pidgeot:brave_bird,gust,twister"
+    },
+    {
+      "time": 1794504086.164,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICI2fqliwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "lapras:ice_beam,psywave,sparkling_aria/serperior:aerial_ace,frenzy_plant,vine_whip/bellibolt:parabolic_charge,thunder_shock,zap_cannon"
+    },
+    {
+      "time": 1794503584.29,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcTDhMeXVPNDNQeVpqNG9XNlZ3V3BhcDRkbU9uMQwLEgZCYXR0bGUYgICIuYGklwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 1900,
+      "note": "",
+      "team": "cradily:acid,grass_knot,rock_tomb/dragonair:aqua_tail,dragon_breath,wrap/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dusknoir:astonish,dynamic_punch,shadow_punch/cetitan:icicle_spear,powder_snow,super_power/dragonair_shadow:aqua_tail,dragon_breath,wrap"
+    },
+    {
+      "time": 1794496063.785,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImYKhgQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "forretress:rock_tomb,sand_tomb,volt_switch/stunfisk:discharge,mud_bomb,thunder_shock/quagsire:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794495813.277,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIyefXjwkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "mimikyu:play_rough,shadow_claw,shadow_sneak/umbreon:dark_pulse,last_resort,snarl/snorlax_shadow:body_slam,psywave,super_power"
+    },
+    {
+      "time": 1794495532.6,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuaDzmgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "ninetales_shadow:ember,energy_ball,weather_ball_fire/corviknight:air_cutter,iron_head,sand_attack/annihilape:ice_punch,low_kick,rage_fist"
+    },
+    {
+      "time": 1794495304.361,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6dHJhwsM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/houndoom:foul_play,incinerate,trailblaze/ninetales_alolan:chilling_water,powder_snow,weather_ball_ice"
+    },
+    {
+      "time": 1794495087.077,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIuaCBkgkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "swampert_shadow:earthquake,hydro_cannon,mud_shot/sableye:foul_play,power_gem,shadow_claw/skarmory:air_slash,brave_bird,drill_run"
+    },
+    {
+      "time": 1794494855.971,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIie2PiwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "morpeko_full_belly:aura_wheel_electric,psychic_fangs,thunder_shock/blastoise:bite,hydro_cannon,skull_bash/hypno:confusion,shadow_ball,thunder_punch"
+    },
+    {
+      "time": 1794494442.369,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImb-fmgoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "noctowl_shadow:shadow_ball,sky_attack,wing_attack/jumpluff:acrobatics,energy_ball,fairy_wind/diggersby:fire_punch,mud_shot,scorching_sands"
+    },
+    {
+      "time": 1794494181.526,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6Z_amQoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "hydreigon:brutal_swing,dragon_breath,fly/mimikyu:play_rough,shadow_claw,shadow_sneak/quagsire_shadow:aqua_tail,mud_shot,stone_edge"
+    },
+    {
+      "time": 1794494177.073,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z_BhAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "goodra:aqua_tail,dragon_breath,thunder_punch/cetitan:icicle_spear,powder_snow,super_power/crustle:fury_cutter,rock_wrecker,x_scissor"
+    },
+    {
+      "time": 1794494177.073,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z_BhAoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "throh:body_slam,brick_break,low_kick/cetitan:icicle_spear,powder_snow,super_power/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794494177.073,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z_BhAoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "primeape_shadow:ice_punch,karate_chop,rage_fist/solrock:psywave,rock_slide,weather_ball_fire/cetitan:icicle_spear,powder_snow,super_power"
+    },
+    {
+      "time": 1794494177.073,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z_BhAoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794494177.073,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI6Z_BhAoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "swalot:ice_beam,infestation,sludge/cradily:acid,grass_knot,rock_tomb/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794493971.601,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI6Z-siAoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "ursaluna_shadow:fire_punch,scratch,swift/clodsire:earthquake,poison_sting,stone_edge/mimikyu:play_rough,shadow_claw,shadow_sneak"
+    },
+    {
+      "time": 1794493719.567,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIie3TkgoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/gastrodon:body_slam,earth_power,mud_slap/steelix_shadow:crunch,psychic_fangs,thunder_fang"
+    },
+    {
+      "time": 1794493360.634,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIia3JkAsM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "talonflame:brave_bird,fly,incinerate/jumpluff:acrobatics,energy_ball,fairy_wind/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794493108.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dSOhwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "grumpig:dynamic_punch,psywave,shadow_ball/lapras:ice_beam,psywave,sparkling_aria/aurorus:meteor_beam,powder_snow,weather_ball_ice"
+    },
+    {
+      "time": 1794493108.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dSOhwoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "snorlax_shadow:body_slam,psywave,super_power/?:/?:"
+    },
+    {
+      "time": 1794493108.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dSOhwoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "primeape_shadow:ice_punch,karate_chop,rage_fist/dragonair_shadow:aqua_tail,dragon_breath,wrap/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794493108.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dSOhwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "drifblim:hex,icy_wind,shadow_ball/graveler_alolan_shadow:rock_blast,stone_edge,volt_switch/charjabug:discharge,volt_switch,x_scissor"
+    },
+    {
+      "time": 1794493108.597,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dSOhwoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "girafarig:confusion,psychic_fangs,trailblaze/dunsparce:bite,drill_run,rock_slide/toxapex:bite,brine,sludge_wave"
+    },
+    {
+      "time": 1794493030.769,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICImd6wmwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "blastoise:bite,hydro_cannon,skull_bash/furret:sucker_punch,swift,trailblaze/pidgeot:brave_bird,gust,twister"
+    },
+    {
+      "time": 1794492848.066,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICIie3FgwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "fearow:drill_peck,drill_run,peck/trevenant:seed_bomb,shadow_ball,shadow_claw/marowak:bone_club,mud_slap,rock_slide"
+    },
+    {
+      "time": 1794492598.378,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI2cSEiQkM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "swampert:earthquake,hydro_cannon,mud_shot/walrein:earthquake,icicle_spear,powder_snow/galvantula:discharge,lunge,volt_switch"
+    },
+    {
+      "time": 1794492382.956,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcZWJxQm9UMm83WlAwSUUyQ2U3NXk1WTVMTm9IMwwLEgZCYXR0bGUYgICI2ePhjgkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2200,
+      "note": "",
+      "team": "melmetal:double_iron_bash,dynamic_punch,thunder_shock/mimikyu:play_rough,shadow_claw,shadow_sneak/altaria:dragon_breath,flamethrower,moonblast",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/cramorant:fly,peck,surf/ninetales:ember,energy_ball,weather_ball_fire"
+    },
+    {
+      "time": 1794492216.551,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIuc3emAoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "toedscruel:earth_power,mud_slap,seed_bomb/aurorus:meteor_beam,powder_snow,weather_ball_ice/froslass:avalanche,powder_snow,shadow_ball"
+    },
+    {
+      "time": 1794492216.551,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIuc3emAoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/goodra:aqua_tail,dragon_breath,thunder_punch/grumpig:dynamic_punch,psywave,shadow_ball"
+    },
+    {
+      "time": 1794492216.551,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIuc3emAoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cetitan:icicle_spear,powder_snow,super_power/blastoise:bite,hydro_cannon,skull_bash/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794492216.551,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIuc3emAoM",
+      "idx": 3,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "machamp_shadow:cross_chop,karate_chop,rock_slide/fearow:drill_peck,drill_run,peck/dodrio:brave_bird,drill_peck,peck"
+    },
+    {
+      "time": 1794492216.551,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIuc3emAoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cramorant:fly,peck,surf/blastoise:bite,hydro_cannon,skull_bash/dunsparce:bite,drill_run,rock_slide"
+    },
+    {
+      "time": 1794491066.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIma3QkwoM",
+      "idx": 0,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "blastoise:bite,hydro_cannon,skull_bash/lapras:ice_beam,psywave,sparkling_aria/cetitan:icicle_spear,powder_snow,super_power"
+    },
+    {
+      "time": 1794491066.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIma3QkwoM",
+      "idx": 1,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dragonair_shadow:aqua_tail,dragon_breath,wrap/cetitan:icicle_spear,powder_snow,super_power/crustle:fury_cutter,rock_wrecker,x_scissor"
+    },
+    {
+      "time": 1794491066.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIma3QkwoM",
+      "idx": 2,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "charjabug_shadow:discharge,volt_switch,x_scissor/lapras:ice_beam,psywave,sparkling_aria/toxapex:bite,brine,sludge_wave"
+    },
+    {
+      "time": 1794491066.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIma3QkwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "cetitan:icicle_spear,powder_snow,super_power/blastoise:bite,hydro_cannon,skull_bash/cramorant:fly,peck,surf"
+    },
+    {
+      "time": 1794491066.894,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICIma3QkwoM",
+      "idx": 4,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "kecleon:dynamic_punch,sucker_punch,thunder_punch/tentacruel:acid,payback,scald/slowbro_galarian:confusion,drain_punch,sludge_bomb"
+    },
+    {
+      "time": 1794489893.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dTEiwoM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/jumpluff:acrobatics,energy_ball,fairy_wind"
+    },
+    {
+      "time": 1794489893.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dTEiwoM",
+      "idx": 1,
+      "result": "L",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "greedent:bite,body_slam,trailblaze/fearow:drill_peck,drill_run,peck/dodrio:brave_bird,drill_peck,peck"
+    },
+    {
+      "time": 1794489893.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dTEiwoM",
+      "idx": 2,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "solrock:psywave,rock_slide,weather_ball_fire/greedent:bite,body_slam,trailblaze/lapras:ice_beam,psywave,sparkling_aria"
+    },
+    {
+      "time": 1794489893.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dTEiwoM",
+      "idx": 3,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "aurorus:meteor_beam,powder_snow,weather_ball_ice/dondozo:outrage,surf,waterfall/girafarig_shadow:confusion,psychic_fangs,trailblaze"
+    },
+    {
+      "time": 1794489893.084,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIccEZGTjZjcE5OcU9Hb29SbzBvNUFIVFFXYnoxMwwLEgZCYXR0bGUYgICI-dTEiwoM",
+      "idx": 4,
+      "result": "W",
+      "rating": 2800,
+      "note": "",
+      "team": "dunsparce:bite,drill_run,rock_slide/snorlax_shadow:body_slam,psywave,super_power/crustle:fury_cutter,rock_wrecker,x_scissor",
+      "oppo_team": "charjabug:discharge,volt_switch,x_scissor/dunsparce:bite,drill_run,rock_slide/grumpig:dynamic_punch,psywave,shadow_ball"
+    },
+    {
+      "time": 1794478231.995,
+      "set_key": "agtnb2JhdHRsZWxvZ3I5CxIEVXNlciIcQlRleUI3RmtaR2FMa3BxMHNjM2RCVlhqZktlMgwLEgZCYXR0bGUYgICImd-DmAkM",
+      "idx": 0,
+      "result": "W",
+      "rating": 2300,
+      "note": "",
+      "team": "mimikyu:play_rough,shadow_claw,shadow_sneak/azumarill:bubble,ice_beam,play_rough/clodsire:earthquake,poison_sting,stone_edge",
+      "oppo_team": "gastrodon:body_slam,earth_power,mud_slap/umbreon:dark_pulse,last_resort,snarl/azumarill:bubble,ice_beam,play_rough"
+    }
+  ]
+}
